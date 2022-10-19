@@ -5,7 +5,7 @@ This is an web application written in Python. It does things and we'd like help 
 ## Instructions
 
 1. Fork this repo, for deployment on AWS.
-2. Change both 'localhosts' to IP address of ec2 instances for API1 & API2.
+2. Change both 'localhosts' to IP address of ec2 instances for API1 & API2. 
 3. Chang YOUR_NAME in HTML in homepage.html.
 4. Sucessfully configure your flask app to your 1st & 2nd api.
 5. Continue with parent task.
